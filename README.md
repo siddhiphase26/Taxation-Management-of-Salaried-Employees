@@ -54,8 +54,8 @@ Taxation_Management/
 | Component            | Technology                        |
 | -------------------- | --------------------------------- |
 | Programming Language | Java                              |
-| Database             | Oracle 11g / 12c / XE             |
-| JDBC Driver          | ojdbc8.jar                        |
+| Database             | Oracle 10g/ 11g / 12c / XE             |
+| JDBC Driver          | ojdbc17.jar                        |
 | IDE                  | IntelliJ IDEA / Eclipse / VS Code |
 
 ---
